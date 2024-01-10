@@ -1,2 +1,5 @@
 title: Léo GUICHARD
+#logo: lien de la photo
+#description: texte sous la photo
+show_downloads: true
 theme: jekyll-theme-minimal
