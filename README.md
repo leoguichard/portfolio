@@ -4,7 +4,7 @@
 
 **Master de Mathématiques Appliquées aux Statistiques, parcours Science des Données Intelligence Artificielle - Université de Rennes 2**
 - Forme aux métiers liés à la Data Science.
-- Concepts abordés : Optimisation - Machine Learning - Deep Learning - Traitement des signaux et des images - Traitement automatique du langage (NLP) - Analyse factorielle des données - Économétrie - Modélisation Bayésienne - Série temporelle - Apprentissage supervisé et non-supervisé - Graphes
+- Concepts abordés : Optimisation - Machine Learning - Deep Learning - Traitement des signaux et des images - Traitement automatique du langage (NLP) - Analyse factorielle des données - Économétrie - Modélisation Bayésienne - Série temporelle - Apprentissage supervisé et non-supervisé - Graphes - Web scraping
 - Technologies utilisées : Python - R - SQL - NoSQL - GIT - GCP - SAS
 
 **Licence de Mathématiques Appliquées aux Sciences Humaines et Sociales, parcours Économie - Universités de Rennes 1 et de Rennes 2**
