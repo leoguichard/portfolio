@@ -15,7 +15,7 @@
 ## Expériences professionnelles
 
 **Stagiaire Data Scientist - Purecontrol, Rennes (Février 2023 - Août 2023)**
-[Voir plus](purecontrol.md)
+[Voir plus](/purecontrol.md)
 Optimisation du temps d'aération des stations d'épuration :
 - Récupération, analyse et traitement de données temporelles (Python, SQL, GIT).
 - Détection et quantification de l'importance des points d'inflexion dans les relevés d'oxygène afin de reconnaître les événements importants lors d'une aération (Python).
