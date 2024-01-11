@@ -1,36 +1,37 @@
 title: Léo GUICHARD
 #logo: lien de la photo
-description: Ayant obtenu mon <b>Master de Mathématiques Appliquées aux Statistiques, parcours Science des Données Intelligence Artificielle<b>, je suis à la recherche d'un premier emploi en <b>Data Science<b>.
-<br><br>
-<b>Compétences:<b>
-<ul>
-  <li><b>Machine Learning<b></li>
-  <li><b>Deep Learning<b></li>
-  <li>Récupération, traitement, analyse et visualisation de larges jeux de données</li>
-  <li>Web scraping</li>
-  <li>NLP</li>
-  <li>Séries temporelles</li>
-  <li>Graphes</li>
-</ul>
-<br><br>
-<b>Technologies:<b>
-<ul>
-  <li><b>Python<b></li>
-  <li><b>R<b></li>
-  <li><b>GIT<b></li>
-  <li><b>SQL<b></li>
-  <li>NoSQL<b></li>
-  <li>GCP</li>
-  <li>PowerBI, Microsoft Office 365</li>
-  <li>HTML, CSS</li>
-  <li>SAS</li>
-</ul>
-<b>Langues:<b>
-<ul>
-  <li><b>Anglais B2-C1<b> (Toeic 925/990 passé en 2022)</li>
-  <li>Français langue natale</li>
-</ul>
-<br><br>
+description: > #texte sous la photo
+  Ayant obtenu mon <b>Master de Mathématiques Appliquées aux Statistiques, parcours Science des Données Intelligence Artificielle<b>, je suis à la recherche d'un premier emploi en <b>Data Science<b>.
+  <br><br>
+  <b>Compétences:<b>
+  <ul>
+    <li><b>Machine Learning<b></li>
+    <li><b>Deep Learning<b></li>
+    <li>Récupération, traitement, analyse et visualisation de larges jeux de données</li>
+    <li>Web scraping</li>
+    <li>NLP</li>
+    <li>Séries temporelles</li>
+    <li>Graphes</li>
+  </ul>
+  <br><br>
+  <b>Technologies:<b>
+  <ul>
+    <li><b>Python<b></li>
+    <li><b>R<b></li>
+    <li><b>GIT<b></li>
+    <li><b>SQL<b></li>
+    <li>NoSQL<b></li>
+    <li>GCP</li>
+    <li>PowerBI, Microsoft Office 365</li>
+    <li>HTML, CSS</li>
+    <li>SAS</li>
+  </ul>
+  <b>Langues:<b>
+  <ul>
+    <li><b>Anglais B2-C1<b> (Toeic 925/990 passé en 2022)</li>
+    <li>Français langue natale</li>
+  </ul>
+  <br><br>
 show_downloads: true
 theme: jekyll-theme-minimal
 plugins:
